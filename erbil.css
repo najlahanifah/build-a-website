@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+body {
+    background-color: #6a040f;
+    color: #ffff;
+}
+
+.secondary-color {
+    color: #ffba08;
+}
+
+.Responsiveimage {
+    position: absolute;
+    left: 20;
+    top: 150px;
+}
+
+.erbil {
+    display: flex;
+    flex-direction: row;
+    margin: 0%;
+}

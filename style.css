@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+.secondary-color {
+    color: #ffba08;
+}
+
+.banner-section {
+    background-color: #6a040f;
+    color: #ffffff;
+    padding: 5rem 0;
+}
+
+.suly-section {
+    background-color: #6a040f;
+    color: #ffffff;
+    padding: 5rem 0;
+}
+
+.banner-title { 
+    text-transform: uppercase; 
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 0.9;
+    margin: 0;
+}
+
+.ReadMore {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    background-color: #ffba08;
+    color: #6a040f;
+    display: inline-block;
+    padding: 0.75rem 2rem;
+}
+
+.ReadMore:hover {
+    color: #6a040f;
+    text-decoration: none;
+    opacity: 0.8;
+}
+
+.navbar-light .navbar-nav .active > .nav-link {
+  background-color: #6a040f;
+  color: #ffffff;
+}
+
+.navbar-brand {
+    width: 50px;
+}
+
+.nav-link {
+    font-weight: 600;
+    font-size: 16px;
+    padding: 0.5rem 2rem !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:#6a040f
+}
+
+.Responsiveimage {
+    position: absolute;
+    left: 20;
+    top: 100px;
+}
+
+.main-fluid {
+    max-width: 30%;
+    height: auto;
+}
+
+.credits {
+    color:#ffffff;
+}
+
+.title-link {
+    text-decoration:none;
+    color: #ffffff;
+}
+
+.title-link:hover {
+    color: #ffffff;
+    opacity: 0.8;
+}
